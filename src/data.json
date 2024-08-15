@@ -1,0 +1,6 @@
+[
+  { "id": 1, "background": "/bg.svg", "content": "<h1>Top Artist: The Weeknd</h1><p>Some additional info</p>" },
+  { "id": 2, "background": "/images/bg2.jpg", "content": "<h1>Top Song: Blinding Lights</h1><p>Some additional info</p>" }
+   
+  ]
+  
